@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/tasks";
+const API_URL = "https://taskflow-backend-b2zw.onrender.com/tasks";
 
 const taskInput = document.getElementById("taskInput");
 
